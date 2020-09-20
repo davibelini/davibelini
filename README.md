@@ -1,16 +1,13 @@
-### Hi there 👋
+# \`hello ${name}\`
+*I'm new to programming. I discovered this world in quarantine, when I wanted to know how games were made. I started with GameMakerStudio 2, then I went to the web. I already learnt html5. Now I am learning javascript, css and python.*
+___
+From now to 2021's august my plan is to:
+- [ ] learn javascript
+- [ ] learn python
+- [ ] learn node js(backend)
+- [ ] take a look at angular, vue or react and choose one to learn
+- [ ] learn python selenium(python web automation)
+- [ ] learn react native
+- [ ] maybe learn php
 
-<!--
-**dado-2007/dado-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I'm 13, from Brazil and hope you like me.* 💻😀
