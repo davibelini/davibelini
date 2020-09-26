@@ -1,5 +1,5 @@
 # hello there
-*I'm new to programming. I discovered this world in quarantine, when I wanted to know how games were made. I started with GameMakerStudio 2, then I went to the web. I already learnt html5. Now I am learning javascript, css and python.*
+*I'm new to programming. I discovered this world in quarantine, when I wanted to know how games were made. I started with GamemakerStudio 2, then I went to the web. I already learnt html5. Now I am learning javascript, css and python.*
 ___
 From now to 2021's august my plan is to:
 - [ ] learn javascript
