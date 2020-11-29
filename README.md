@@ -1,6 +1,6 @@
 # 🐛 Hello There 🐛
  
-### I'm Davi Belini, a 13 yo who wants to be a succesfull web developer and game developer.
+### I'm Davi Belini(nickname '_dado_'), a 13 yo who wants to be a succesfull web developer and game developer.
 ___
 #### - 👾 I'm currently learning pygame.
 #### - 🌐 I use node.js+express to code backend.
