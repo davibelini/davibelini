@@ -1,11 +1,11 @@
 # 🐛 Hello There 🐛
  
-### I'm Davi Belini(nickname '_dado_'), a 13 yo who wants to be a succesfull web developer and game developer.
+### I'm Davi Belini(nickname '_dado_'), a 13 yo who wants to learn about computers.
 ___
 #### - 👾 I'm currently learning pygame.
+#### - 💡  I really like making breadboard circuits.
 #### - 🌐 I use node.js+express to code backend.
-#### - 💻 I will learn low level coding, arduino, and breadboards.
-#### - ❓ I want to learn a new programming language in the future, just like a js library/framework.
+#### - 💻 I am planing on learn mysql database. 
 ___
 <details>
   <summary>What I know: <i>(click to expand)</i></summary>
@@ -23,4 +23,4 @@ ___
 > ## My Github stats:
 > ![stats](https://github-readme-stats.vercel.app/api?username=davibelini&show_icons=true&theme=radical)
 
-### Contributions are welcome. I don't now, probably I made more bugs than _working code_. 😅
+### Contributions are welcome. I don't now, probably I made more bugs than working code.
